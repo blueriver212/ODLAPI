@@ -86,10 +86,11 @@ namespace ODLAPI.Controllers
             await _context.SaveChangesAsync();
 
             // then run a python script with that triggers as an argument
-            ScriptEngine engine = Python.CreateEngine();
-            ScriptScope scope = engine.CreateScope();
-            var script = "C:\\Users\\someg\\OneDrive\\Documents\\UCL\\ODLAPI\\ODLAPI\\main.py";
-            engine.ExecuteFile(script, scope);
+            //ScriptEngine engine = Python.CreateEngine();
+            //ScriptScope scope = engine.CreateScope();
+            //var script = "C:\\Users\\someg\\OneDrive\\Documents\\UCL\\ODLAPI\\ODLAPI\\main.py";
+            //engine.ExecuteFile(script, scope);
+            
             
             return CreatedAtAction("GetTrigger", new { id = trigger.Id }, trigger);
         }

@@ -12,7 +12,7 @@ using ODLAPI.Models;
 namespace ODLAPI.Migrations
 {
     [DbContext(typeof(TriggerDBContext))]
-    [Migration("20221021103215_InitialMigration")]
+    [Migration("20221021154748_InitialMigration")]
     partial class InitialMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
