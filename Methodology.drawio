@@ -1,1 +1,160 @@
-<mxfile host="app.diagrams.net" modified="2023-01-26T12:53:48.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.11" etag="E_Fzs7Ek6zKq72M-_VBt" type="github"><diagram name="Page-1" id="-Ixd2XQv5i_Bm_aAaM5C">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-31T16:21:50.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ZsrXq_3LeNxFrHMPsDdv" version="20.8.13" type="github">
+  <diagram name="Page-1" id="-Ixd2XQv5i_Bm_aAaM5C">
+    <mxGraphModel dx="1434" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qqzJPgwfRlioofMwHy8X-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="760" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-2" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#000000;shape=mxgraph.azure.file" vertex="1" parent="1">
+          <mxGeometry x="70" y="80" width="61.1" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-4" value="Celestrak SATCAT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-5" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#000000;shape=mxgraph.azure.file" vertex="1" parent="1">
+          <mxGeometry x="150" y="80" width="61.1" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-6" value="JSR SATCAT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-7" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="290" y="82.6" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-8" value="Space-track.org" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="291.2" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-9" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#000000;shape=mxgraph.mscae.enterprise.keyboard" vertex="1" parent="1">
+          <mxGeometry x="440" y="105" width="75" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-10" value="User input for future epoch date e.g. 1st Jan 2023" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="418.75" y="160" width="117.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-11" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#000000;shape=mxgraph.azure.file" vertex="1" parent="1">
+          <mxGeometry x="698.9" y="92.5" width="61.1" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-12" value="Frag Elements" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="698.9" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-13" value="Fetch Latest Celestrak and JSR Satcat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="230" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-14" value="Merge information and load int SOCAT. Data fiels in a single SOCAT record give Table 1.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="320" width="161.1" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-15" value="Remove Debris" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="413.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-17" value="Fetch latest TLE&#39;s for every objects in the catalogue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="230" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-18" value="For objects with valid TLEs populate SOCAT orbit information fields, Table 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="320" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-19" value="SOCAT w/o future population information&amp;nbsp;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="400" y="370" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-20" value="Add RSOs from future launches up to epoch of interest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="230" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-21" value="Decay/De-orbiting Models" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="310" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-22" value="Decay/De-orbiting Models" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="310" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-23" value="RSO Dynamics, Fragments and Collisions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="390" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-24" value="SOCAT with future population information" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="670" y="373.5" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-25" value="NASA Evolve Breakup Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="230" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-26" value="Semi-analytic debris cloud evolution model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="310" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="520" width="270" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-28" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#000000;shape=mxgraph.azure.file" vertex="1" parent="1">
+          <mxGeometry x="70" y="550" width="32.9" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-29" value="Data File" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="109.99999999999997" y="555" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-30" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="70" y="610" width="32.4" height="32.4" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-31" value="Online Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="109.99999999999997" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-32" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="200" y="545" width="30" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-33" value="SOCAT Data Store" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="249.99999999999997" y="552.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-34" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="620" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-35" value="Process" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="249.99999999999997" y="615" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-36" value="&lt;b&gt;Legend&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="56.449999999999974" y="522.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="400" y="520" width="440" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-38" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#000000;shape=mxgraph.azure.file" vertex="1" parent="1">
+          <mxGeometry x="425.55" y="545" width="61.1" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-39" value="FSPCAT-19" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="421.1" y="615" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-40" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#000000;shape=mxgraph.azure.file" vertex="1" parent="1">
+          <mxGeometry x="566.25" y="545" width="61.1" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-41" value="FSPCAT-23" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="559.3" y="615" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-42" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#000000;shape=mxgraph.azure.file" vertex="1" parent="1">
+          <mxGeometry x="698.9" y="540" width="61.1" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-43" value="FSPDEB-19" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="693.9" y="615" width="71.1" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-44" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#000000;shape=mxgraph.azure.script_file;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="574.1500000000001" y="90" width="60.15" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-45" value="Future Launches &amp;amp; Payloads" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="559.3" y="160" width="85.7" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-46" value="&lt;b&gt;&lt;i&gt;Inputs&lt;/i&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-47" value="&lt;b&gt;&lt;i&gt;Model Ouputs&lt;/i&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="640" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-48" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#000000;shape=mxgraph.azure.file" vertex="1" parent="1">
+          <mxGeometry x="895" y="390" width="61.1" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-49" value="FSPDEB-23" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="465" width="71.1" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-51" value="Future Fragmentation events" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="310" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-52" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#000000;shape=mxgraph.azure.file" vertex="1" parent="1">
+          <mxGeometry x="964.45" y="200" width="61.1" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="qqzJPgwfRlioofMwHy8X-53" value="Future Fragmentation Events" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="935" y="270" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
